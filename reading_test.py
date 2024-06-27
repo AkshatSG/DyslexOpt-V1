@@ -121,7 +121,7 @@ for sen in paragraphs:
     comf.append(comfort)
     rew.append(reward)
     
-    print("Please input Objective Func Value shown above in BO.py to receive updated parameters; when ready to read with new text config, enter ""x""")
+    print("Please input Objective Func Value shown above in BO.ipynb to receive updated parameters; when ready to read with new text config, enter ""x""")
     print("")
     while True:
         if keyboard.is_pressed('x'):
