@@ -6,7 +6,7 @@ DyslexOpt-V1 uses basic text settings as the parameters to tune. In the future, 
 
 Hence, google text formats were used to tune the text. 
 
-DISCLAIMER: The given code is very ambiguous. THe choice of which parameters to tune are up to the dyslexic reader/tester, and ought to be available where the test occurs (a simple google slide to a more robust lab application). 
+The given code is very ambiguous. THe choice of which parameters to tune are up to the dyslexic reader/tester, and ought to be available where the test occurs (a simple google slide to a more robust lab application). 
 
 reading_test.py already contains 30 sample reading texts generated using Mistral 7B. It is also where the reader will be tested for fluency, and comfort score will be inputted.
 
