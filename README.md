@@ -1,6 +1,6 @@
 # DyslexOpt-V1
 
-![Flowchart Diagram](https://github.com/[AkshatSG]/[DyslexOpt-V1]/[main]/flowchart.png?raw=true)
+![Flowchart Diagram](https://github.com/AkshatSG/DyslexOpt-V1/blob/main/flowchart.png)
 
 DyslexOpt is A Human-in-the-Loop Bayesian Optimization System for Enhancing Reading Fluency for Dyslexic Users
 
